@@ -38,8 +38,7 @@
 	<false/>
 	<key>FacebookAdvertiserIDCollectionEnabled</key>
 	<true/>
-	<key>FacebookAppID</key>
-	<string>790716362992864</string>
+	
 	<key>FacebookClientToken</key>
 	<string>18a155ec5d2d37cd95bb0fcae1449403</string>
 	<key>FacebookDisplayName</key>
