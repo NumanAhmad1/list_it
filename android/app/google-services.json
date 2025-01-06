@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "996099906631",
+    "project_id": "listit-406411",
+    "storage_bucket": "listit-406411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996099906631:android:0685fe48b3d4a9b93d6562",
+        "android_client_info": {
+          "package_name": "com.armsgroup.listit_mobile_ap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996099906631-og590u2nch00qm1untkc2oif5hbqrhms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armsgroup.listit_mobile_ap",
+            "certificate_hash": "7b8f63bb9ce0956cc2e07c8304f088666bf19ff1"
+          }
+        },
+        {
+          "client_id": "996099906631-riatkq9aam2o2o15u1m8pho5es9ktiki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armsgroup.listit_mobile_ap",
+            "certificate_hash": "a2661539720e7f07ea04b0c5f8fecd8034b0ac94"
+          }
+        },
+        {
+          "client_id": "996099906631-deh76ht910t4vfa11i11ovb63r3k5d5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbuFLlhD5pimGpsNSBzt402pYccXf3Enw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996099906631-deh76ht910t4vfa11i11ovb63r3k5d5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996099906631-3jnni29e0j02sup10bpfm9vq6cd4fr9f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.armsgroup.lisitMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
